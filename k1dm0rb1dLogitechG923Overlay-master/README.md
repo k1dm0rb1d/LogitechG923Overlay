@@ -8,15 +8,7 @@ Added Max Rotation input field.  Default was 900, which no one uses.
 
 ### Use Online
 
-[https://joetex.github.io/stream-racing-wheel/](https://joetex.github.io/stream-racing-wheel/)
-
-### Watch Example Preview
-
-**Forza Horizon 4**
-
-`BAC Mono` https://gfycat.com/milkyminiatureaustraliankelpie
-
-`Ford Raptor` https://gfycat.com/ethicallegitimateboutu
+[https://k1dm0rb1d.github.io/LogitechG923Overlay/](https://k1dm0rb1d.github.io/LogitechG923Overlay)
 
 ### Install and use locally
 
